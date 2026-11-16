@@ -1,0 +1,4 @@
+# Расшифровка голосовых для bot.py (тяжёлая зависимость: ctranslate2, onnxruntime, av).
+# Для demo.py и тестов не нужна.
+-r requirements.txt
+faster-whisper

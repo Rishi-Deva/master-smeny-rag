@@ -1,0 +1,5 @@
+aiogram>=3.13,<4
+python-dotenv
+httpx
+numpy
+aiosqlite
